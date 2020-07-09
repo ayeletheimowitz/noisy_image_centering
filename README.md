@@ -1,0 +1,1 @@
+# noisy_image_centering
