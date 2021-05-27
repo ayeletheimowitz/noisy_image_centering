@@ -16,7 +16,7 @@ To get started, run the following commands in MATLAB
 
 The implementation requires the Distributed Computing Toolbox to be installed. 
 
-The Prolate generation code was contributed by [Boris Landa](https://math.yale.edu/people/boris-landa). 
+The Prolate generation code was contributed by [Boris Landa](https://sites.google.com/site/landaboris1). 
 
 Legendre-Gauss Quadrature Weights and Nodes were computed using code by Greg von Winckel (2021): [Legendre-Gauss Quadrature Weights and Nodes](https://www.mathworks.com/matlabcentral/fileexchange/4540-legendre-gauss-quadrature-weights-and-nodes), available at MATLAB Central File Exchange. 
 
