@@ -6,8 +6,6 @@ This package contains an implementation of our method for estimating the center 
 
 A. Heimowitz, N. Sharon and A. Singer, "Centering Noisy Images with Application to Cryo-EM". [https://arxiv.org/pdf/2009.04810.pdf](https://arxiv.org/pdf/2009.04810.pdf). To appear in SIAM Journal on Imaging Sciences.
 
-The Prolate generation code was contributed by [Boris Landa](https://math.yale.edu/people/boris-landa). 
-
 To get started, run the following commands in MATLAB
 
 `setup;`
@@ -17,3 +15,9 @@ To get started, run the following commands in MATLAB
 `[shift, centered_img, Initial_grid_values] = CenterPyramid(sp_img, PSWF, weight_vec); % sp_img is the image containing the object to be centered`
 
 The implementation requires the Distributed Computing Toolbox to be installed. 
+
+The Prolate generation code was contributed by [Boris Landa](https://math.yale.edu/people/boris-landa). 
+
+Legendre-Gauss Quadrature Weights and Nodes were computed using code by Greg von Winckel (2021): [Legendre-Gauss Quadrature Weights and Nodes](https://www.mathworks.com/matlabcentral/fileexchange/4540-legendre-gauss-quadrature-weights-and-nodes), available at MATLAB Central File Exchange. 
+
+Jacobi polynomials evaluated using code by John Burkardt and distributed under the GNU LGPL license.
