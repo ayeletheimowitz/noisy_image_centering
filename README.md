@@ -20,4 +20,4 @@ The Prolate generation code was contributed by [Boris Landa](https://math.yale.e
 
 Legendre-Gauss Quadrature Weights and Nodes were computed using code by Greg von Winckel (2021): [Legendre-Gauss Quadrature Weights and Nodes](https://www.mathworks.com/matlabcentral/fileexchange/4540-legendre-gauss-quadrature-weights-and-nodes), available at MATLAB Central File Exchange. 
 
-Jacobi polynomials evaluated using code by John Burkardt and distributed under the GNU LGPL license.
+[Jacobi polynomials](https://github.com/ayeletheimowitz/noisy_image_centering/blob/master/Prolates%20generating%20code/j_polynomial.m) are evaluated using code by John Burkardt and distributed under the GNU LGPL license.
